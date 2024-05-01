@@ -7,7 +7,7 @@ const modalConfig = {
   formItems: [
     {
       type: 'input',
-      label: '部门名称;',
+      label: '部门名称:',
       prop: 'name',
       placeholder: '请输入部门名称',
       initialValue: '',

@@ -2,7 +2,7 @@ export const contentConfig = {
   pageName: 'goods',
   header: {
     title: '商品列表',
-    // btnTitle: '新建商品',
+    btnTitle: '新建商品',
   },
   propsList: [
     { prop: 'name', label: '商品名称', align: 'center' },

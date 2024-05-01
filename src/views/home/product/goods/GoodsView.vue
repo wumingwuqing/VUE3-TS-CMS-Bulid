@@ -30,7 +30,7 @@
         </el-button>
       </template>
     </PageContent>
-    <!-- <PageModal :modalConfig="modalConfig" ref="pageModelRef"></PageModal> -->
+    <PageModal :modalConfig="modalConfig" ref="pageModelRef"></PageModal>
   </div>
 </template>
 
